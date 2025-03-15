@@ -1,0 +1,15 @@
+input[type="button"]{
+    background-color: rgb(252, 89, 89);
+    border-radius: 5px;
+    padding: 20px 40px;
+}
+
+input[type="text"]{
+    padding: 20px 60px;
+    border-radius: 5px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid;
+}
